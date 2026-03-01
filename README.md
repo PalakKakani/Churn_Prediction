@@ -43,7 +43,6 @@ project/
 │   ├── churn_prediction_model.ipynb
 │   ├── churn_interpretability.ipynb
 │   └── ab_testing.ipynb
-├── requirements.txt
 └── README.md
 ```
 
